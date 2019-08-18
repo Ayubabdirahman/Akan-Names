@@ -18,7 +18,7 @@ h1 {
 
 .icon {
 	max-width: 300px;
-	/* float: left; */
+	float: left;
 	border-radius: 300px 300px 300px 300px;
 
 }
