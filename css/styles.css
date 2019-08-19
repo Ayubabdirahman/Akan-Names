@@ -20,7 +20,7 @@ h1 {
 	max-width: 300px;
 	float: left;
 	border-radius: 300px 300px 300px 300px;
-	
+
 
 }
 
@@ -52,4 +52,11 @@ h2{
 
 span{
 	color: #f34573;
+}
+
+h3 {
+	font-family: 'Ubuntu', sans-serif;
+	color: #28544b;
+	font-weight: 300;
+	font-size: 2em;
 }
